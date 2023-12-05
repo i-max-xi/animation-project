@@ -48,3 +48,12 @@
 .hero button:hover {
   background-color: #47b2ff; /* Darker orange on hover */
 }
+
+.about {
+  align-items: "center";
+  margin-top: 15rem;
+}
+
+.about-content {
+  flex: 1;
+}
